@@ -5,14 +5,10 @@ Plugin Minecraft untuk kebutuhan roleplay yang memungkinkan pemain mengganti ski
 seperti mengganti baju menggunakan item khusus (item baju).
 </p>
 
----
-
 ## Fitur
 - Ganti skin langsung menggunakan item (seperti baju)
 - Upload skin pakai website
 - Edit skin lewat webiste tanpa restart server (Edit = hapus terus upload ulang 😹)
-
----
 
 ## Cara Pakai
 
@@ -24,13 +20,9 @@ seperti mengganti baju menggunakan item khusus (item baju).
   - `jenis_baju`
   - `skins`
 
----
-
 ### 2. Setup Item
 - Buat item di Minecraft
 - Tambahkan lore sesuai dengan `jenis_baju` dari API
-
----
 
 ### 3. Install SkinsRestorer
 - Download: https://skinsrestorer.net/  
@@ -45,8 +37,6 @@ server:
   sound:
     value: ITEM_ARMOR_EQUIP_LEATHER, 0.7
 ```
-
----
 
 ### 4. Setup Silent Messages
 
