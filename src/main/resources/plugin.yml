@@ -1,0 +1,7 @@
+name: BajuAeera
+version: '1.0-SNAPSHOT'
+main: dev.ArselAdy.bajuAeera.BajuAeera
+api-version: '1.21'
+authors: [ ArselAdy ]
+description: Arphone Roleplay plugin
+depend: [SkinsRestorer]
